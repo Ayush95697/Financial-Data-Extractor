@@ -84,17 +84,17 @@ financial-data-extractor/
 
 📦 Dependencies
 
-Python 3.9+
+* Python 3.9+
 
-Streamlit
+* Streamlit
 
-LangChain
+* LangChain
 
-langchain-groq
+* langchain-groq
 
-pandas
+* pandas
 
-python-dotenv
+* python-dotenv
 
 Install them with:
 ```
