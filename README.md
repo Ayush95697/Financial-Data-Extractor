@@ -39,7 +39,7 @@ Output table:
 
 1. Clone the repository
 ```
-git clone https://github.com/your-username/financial-data-extractor.git
+git clone https://github.com/Ayush9569/financial-data-extractor.git
 cd financial-data-extractor
  ```
 2. Create & activate virtual environment (optional but recommended)
